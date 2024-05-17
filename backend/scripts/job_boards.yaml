@@ -1,0 +1,94 @@
+companies:
+  - name: "Figma"
+    job_listing_urls: []
+  - name: "Meta"
+    job_listing_urls: []
+  - name: "Rippling"
+    job_listing_urls: []
+  - name: "Adobe"
+    job_listing_urls: []
+  - name: "Square/Block"
+    job_listing_urls:
+      - "https://careers.squareup.com/us/en/jobs?role%5B%5D=Software%20Engineering&location%5B%5D=Remote&location%5B%5D=NYC%2C%20United%20States&location%5B%5D=New%20York%20City%2C%20United%20States&location%5B%5D=New%20York%2C%20United%20States"
+  - name: "Microsoft"
+    job_listing_urls:
+      - "https://jobs.careers.microsoft.com/global/en/search?q=react&lc=New%20York%2C%20United%20States&l=en_us&pg=1&pgSz=20&o=Relevance&flt=true"
+  - name: "Spotify"
+    job_listing_urls:
+      - "https://www.lifeatspotify.com/jobs?q=frontend"
+  - name: "Github"
+    job_listing_urls:
+      - "https://www.github.careers/careers-home/jobs?keywords=frontend&sortBy=relevance&page=1"
+  - name: "Notion"
+    job_listing_urls:
+      - "https://www.notion.so/careers"
+  - name: "Netflix"
+    job_listing_urls:
+      - "https://jobs.netflix.com/search?q=frontend&location=Remote%2C%20United%20States~New%20York%2C%20New%20York"
+  - name: "Splunk"
+    job_listing_urls:
+      - "https://www.splunk.com/en_us/careers/search-jobs.html?keyword=react&location=NY%2C%20United%20States"
+  - name: "Slack"
+    job_listing_urls:
+      - "https://slack.com/careers/location/new-york-new-york/dept/software-engineering"
+  - name: "Asana"
+    job_listing_urls:
+      - "https://asana.com/jobs/all"
+  - name: "Stripe"
+    job_listing_urls:
+      - "https://stripe.com/jobs/listing/frontend-engineer-optimized-checkout/5478263"
+  - name: "Airbnb"
+    job_listing_urls:
+      - "https://careers.airbnb.com/positions/?_search_input=react&_offices=united-states"
+  - name: "Atlassian"
+    job_listing_urls:
+      - "https://www.atlassian.com/company/careers/all-jobs?team=&location=United%20States&search=react"
+  - name: "Etsy"
+    job_listing_urls:
+      - "https://careers.etsy.com/jobs/search?page=1&query=react"
+  - name: "Shopify"
+    job_listing_urls:
+      - "https://www.shopify.com/careers"
+  - name: "OpenAI"
+    job_listing_urls: []
+  - name: "Google"
+    job_listing_urls: []
+  - name: "NYT"
+    job_listing_urls: []
+  - name: "Airtable"
+    job_listing_urls:
+      - "https://airtable.com/careers#open-positions"
+  - name: "Instacart"
+    job_listing_urls:
+      - "https://instacart.careers/current-openings/"
+  - name: "Snowflake"
+    job_listing_urls:
+      - "https://careers.snowflake.com/us/en/search-results?keywords=react"
+  - name: "RobinHood"
+    job_listing_urls:
+      - "https://careers.robinhood.com/"
+  - name: "Intuit"
+    job_listing_urls:
+      - "https://jobs.intuit.com/search-jobs/react/New%20York%2C%20NY/27595/1/4/6252001-5128638-5128581/40x71427/-74x00597/50/2"
+  - name: "BaseCamp"
+    job_listing_urls: []
+  - name: "Databricks"
+    job_listing_urls:
+      - "https://www.databricks.com/company/careers/open-positions?department=all&location=New%20York"
+  - name: "Autodesk"
+    job_listing_urls:
+      - "https://autodesk.wd1.myworkdayjobs.com/Ext?q=react"
+  - name: "LinkedIn"
+    job_listing_urls: []
+  - name: "PagerDuty"
+    job_listing_urls:
+      - "https://careers.pagerduty.com/jobs/search?page=1&country_codes%5B%5D=US&query=react"
+  - name: "Reddit"
+    job_listing_urls:
+      - "https://www.redditinc.com/careers"
+  - name: "Pinterest"
+    job_listing_urls:
+      - "https://www.pinterestcareers.com/jobs/?search=react&pagesize=20#results"
+  - name: "Sourcegraph"
+    job_listing_urls:
+      - "https://boards.greenhouse.io/sourcegraph91"
